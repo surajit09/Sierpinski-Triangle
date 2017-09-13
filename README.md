@@ -7,5 +7,5 @@ The wikipedia page (http://en.wikipedia.org/wiki/Sierpinski_triangle) has the de
 
 The app supports:
 
-zooming in and out
-panning
+    zooming in and out
+    panning
